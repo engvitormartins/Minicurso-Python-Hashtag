@@ -1,5 +1,8 @@
 # importar bibliotecas
 
+import pandas as pd
+
+
 # importar a base de dados
 
 # visualizar a base de dados
