@@ -2,6 +2,9 @@
 
 import pandas as pd
 
+            # python.exe -m pip install --upgrade pip
+            # pip install openpyxl (abrir excel)
+            # pip install pywin32 (enviar e-mail pelo outlook)
 
 # importar a base de dados
 
